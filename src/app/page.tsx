@@ -14,6 +14,7 @@ const App: React.FC = () => {
         <About />
         <Projects />
         <Contact />
+        <SpeedInsights />
       </main>
       <Footer />
     </div>
